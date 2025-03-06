@@ -30,7 +30,7 @@ function atualizarLista(){
     
     lista.innerHTML = '';
 
-    amigos.forEach((amigo, index) => {
+    amigos.forEach((amigo) => {
         const item = document.createElement("li");
         item.textContent = amigo;
         lista.appendChild(item);
@@ -55,8 +55,9 @@ function sortearAmigo(){
 
     atualizarLista();
     limparCampo();
-
+    
 }
+
 
 
 
