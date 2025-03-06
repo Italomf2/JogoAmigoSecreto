@@ -33,3 +33,5 @@ Um projeto simples de sorteio de amigo secreto, onde os usuários podem adiciona
 4. Realize o Sorteio:
 
    Clique em "Sortear Amigo" para exibir o nome do amigo sorteado aleatóriamente.
+
+clique aqui para ver como ficou : https://italomf2.github.io/JogoAmigoSecreto/
